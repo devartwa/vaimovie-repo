@@ -1,9 +1,9 @@
 ## 📱 Imagens
 
 <div style="flex-direction: row;">
-  <img src="https://i.imgur.com/Bt4vQid.png" width="312px;" height="677px;" alt="Foto do VaiMovie"/>
-  <img src="https://i.imgur.com/IgOO7LR.png" width="312px;" height="677px;" alt="Foto do VaiMovie"/>
-  <img src="https://i.imgur.com/wexaKtG.png" width="312px;" height="677px;" alt="Foto do VaiMovie"/>
+  <img src="https://i.imgur.com/Bt4vQid.png" width="224px;" height="487px;" alt="Foto do VaiMovie"/>
+  <img src="https://i.imgur.com/IgOO7LR.png" width="224px;" height="487px;" alt="Foto do VaiMovie"/>
+  <img src="https://i.imgur.com/wexaKtG.png" width="224px;" height="487px;" alt="Foto do VaiMovie"/>
 </div>
 
 ## 💻 Pré-requisitos
